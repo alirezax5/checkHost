@@ -1,0 +1,17 @@
+{
+    "name": "alirezax5/check-host",
+    "description": "check-host.net api php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alirezax5\\CheckHost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alirezax5",
+            "email": "alirezaaghax6@gmail.com"
+        }
+    ],
+    "require": {}
+}
