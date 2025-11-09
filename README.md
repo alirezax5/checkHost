@@ -57,8 +57,8 @@ print_r($CheckHost->ping());
 
 To support me, you can star this repository or donate via the following currencies
 
-- TRX or USDT(TRC20)
+- TON
 ```
-TQk6AHMREwER9EyGzhUsVv2hUQygGMyCeT
+UQBnlnOGefCkwgtO7IZdOBFuoojkpKgK3mI1GmH3MH_gG0A9
 ```
 
